@@ -1,0 +1,12 @@
+Partlist
+
+Exported from Player Board.brd at 22/04/2015 23:34:36
+
+Assembly variant: 
+
+Part     Value            Package              Library             Position (mm)         Orientation
+
+C1                        CPOL-RADIAL-10UF-25V SparkFun-Capacitors (3.81 12.7)           R180
+J1       22-27-2021-02    6410-02              con-molex           (3.81 6.35)           R270
+J2       22-27-2031-03    6410-03              con-molex           (3.81 20.32)          R270
+U$1      ARDUINO_PRO_MINI ARDUINO_PRO_MINI     MimaZ               (24.13 2.54)          R180
